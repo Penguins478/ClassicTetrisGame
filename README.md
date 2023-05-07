@@ -1,2 +1,2 @@
-# MachineLearningTetrisBot
-A Tetris Bot that learns how to stack by itself with deep reinforcement learning.
+# Simple Tetris Game
+Classic Tetris game with an upcoming piece queue. Made using Python + Tkinter.
